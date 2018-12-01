@@ -1,0 +1,161 @@
+{
+  "sections": [
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "What’s all this then?",
+          "duration": 1.13,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.53
+        },
+        {
+          "type": "text",
+          "text": "This isn’t like any stone I’ve held before",
+          "duration": 2.64,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.2
+        },
+        {
+          "type": "text",
+          "text": "and I’ve held some stones.",
+          "duration": 2.24,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.46
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "Funny, it looks kind of similar to the necklace ɡrandad use to wear.",
+          "duration": 3.94,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.65
+        },
+        {
+          "type": "text",
+          "text": "What did he call that rock?",
+          "duration": 1.34,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.25
+        },
+        {
+          "type": "text",
+          "text": "Illuminite?",
+          "duration": 0.88,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.27
+        },
+        {
+          "type": "text",
+          "text": "Illuminitey?",
+          "duration": 0.88,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.46
+        },
+        {
+          "type": "text",
+          "text": "I remember him saying a cluster of this ore had massive magical properties. ",
+          "duration": 4.52,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.53
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "pause",
+          "duration": 1.09
+        },
+        {
+          "type": "text",
+          "text": "That old coot told the most foolish stories.",
+          "duration": 2.8,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.72
+        },
+        {
+          "type": "text",
+          "text": "Looks pretty though.",
+          "duration": 0.88,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.46
+        },
+        {
+          "type": "text",
+          "text": "Guess i’ll keep it for now.",
+          "duration": 1.11,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.5
+        }
+      ]
+    }
+  ]
+}

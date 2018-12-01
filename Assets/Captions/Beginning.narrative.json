@@ -1,0 +1,379 @@
+{
+  "sections": [
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "The Bard.",
+          "duration": 1.23,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.81
+        },
+        {
+          "type": "text",
+          "text": "History remembers these jovial beings as master of song and story.",
+          "duration": 5.66,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 1.39
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "Those who bask in their tales may learn the triumph of a hero’s adventure or the rule of a tyrannical king and his subjects.",
+          "duration": 10.06,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.59
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "Their ballads pass swiftly through village streets to bring hope and cheer to the locals.",
+          "duration": 6.17,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.48
+        },
+        {
+          "type": "text",
+          "text": "Countless are renowned throughout the many kingdoms.",
+          "duration": 3.04,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.39
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "It is difficult to be in the presence of one and resist the urge to smile or laugh.",
+          "duration": 5.5,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.9
+        },
+        {
+          "type": "text",
+          "text": "At least this is how the life of a bard once was in the Kingdom of Briarwood...",
+          "duration": 5.52,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.65
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "Only whispers remain of the bards and their good-natured will.",
+          "duration": 5.19,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.52
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "Some individuals speculate they have gone to kingdoms that are more rich in coin.",
+          "duration": 4.6,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.62
+        },
+        {
+          "type": "text",
+          "text": "Others believe it to be the result of an infuriated king’s axe caused by a previous Bard’s mocking limerick.",
+          "duration": 7.3,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.25
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "Few know what actually caused the disappearance of these melody weavers….and only one bard remains in Briarwood.",
+          "duration": 8,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.81
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "Raised since birth by his grandfather, Bradley Trebleton was instructed in the ways of the bard.",
+          "duration": 6.33,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.51
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "Learning how to charm people with a beautiful piece played by his flute.",
+          "duration": 3.78,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.53
+        },
+        {
+          "type": "text",
+          "text": "Enthralling others with the colorful tales passed down from his grandfather.",
+          "duration": 4.5,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.56
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "Bradley was infatuated with the Bard lifestyle",
+          "duration": 3.47,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.25
+        },
+        {
+          "type": "text",
+          "text": "but never being on an adventure himself felt his stories lacked experience.",
+          "duration": 4.81,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.47
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "After his grandfather passed away several months ago,",
+          "duration": 3.2,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.44
+        },
+        {
+          "type": "text",
+          "text": "Bradley began spending most of his time at the local pub.",
+          "duration": 3.62,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.92
+        },
+        {
+          "type": "text",
+          "text": "The",
+          "duration": 0.43,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 1.34
+        },
+        {
+          "type": "text",
+          "text": "Trouser’s Snake.",
+          "duration": 1.28,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.94
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "And like most nights,",
+          "duration": 1.67,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "text",
+          "text": "Bradley finds himself in a drunken slumber next to the chamber pot.",
+          "duration": 5.02,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.76
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "But tonight is not like most nights",
+          "duration": 2.37,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.25
+        },
+        {
+          "type": "text",
+          "text": "and Bradley will soon discover a place thought to be forgotten...",
+          "duration": 4.42,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 1
+        }
+      ]
+    }
+  ]
+}

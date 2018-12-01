@@ -1,0 +1,74 @@
+{
+  "sections": [
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "*burp* Oh blimey, that was rough. Should’ve said no to that last pint of grog.",
+          "duration": 5.92,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 1.2
+        },
+        {
+          "type": "text",
+          "text": "Where am I?",
+          "duration": 1.9,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.27
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "I remember leaving the pub, I walked to gran-dad’s grave near the woods and then I took the shortcut home.",
+          "duration": 6.75,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 1.39
+        },
+        {
+          "type": "text",
+          "text": "Suppose I drank too much.",
+          "duration": 1.55,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 1.13
+        },
+        {
+          "type": "text",
+          "text": "What’s that over there?",
+          "duration": 1.44,
+          "animation": {
+            "type": "scrollRight"
+          }
+        }
+      ]
+    }
+  ]
+}

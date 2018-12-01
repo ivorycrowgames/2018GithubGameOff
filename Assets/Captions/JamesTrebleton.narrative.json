@@ -1,0 +1,152 @@
+{
+  "sections": [
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "“A leader in the ways of Valor, Wisdom, and Kindness.",
+          "duration": 3.97,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.69
+        },
+        {
+          "type": "text",
+          "text": "James...Trebleton.”",
+          "duration": 1.41,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.99
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "Wait",
+          "duration": 0.48,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.88
+        },
+        {
+          "type": "text",
+          "text": "it’s not possible...",
+          "duration": 1.46,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 1.09
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "You were always looking for this place.",
+          "duration": 1.97,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.46
+        },
+        {
+          "type": "text",
+          "text": "You always said it was why none of us were around anymore.",
+          "duration": 2.99,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 1.62
+        },
+        {
+          "type": "text",
+          "text": "I’m sorry you aren’t here with me…",
+          "duration": 2.18,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.95
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "But I promise to show others the amazing things I’ve discovered.",
+          "duration": 3.27,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.55
+        },
+        {
+          "type": "text",
+          "text": "This place and you",
+          "duration": 1.44,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.3
+        },
+        {
+          "type": "text",
+          "text": "will never be forgotten again.",
+          "duration": 1.67,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.5
+        }
+      ]
+    }
+  ]
+}

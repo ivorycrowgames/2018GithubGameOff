@@ -1,0 +1,132 @@
+{
+  "sections": [
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "pause",
+          "duration": 1.55
+        },
+        {
+          "type": "text",
+          "text": "Those gateways are arduous!",
+          "duration": 2.57,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 2.33
+        },
+        {
+          "type": "text",
+          "text": "Doesn’t look like I made it back to Rustpeak though…",
+          "duration": 2.5,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.73
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "This place looks like a story out of ɡrandad’s journal.",
+          "duration": 3.03,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.68
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "Come to think of it, with all of the statues, the stonework and that random Arcane Gateway back there-",
+          "duration": 5.73,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.82
+        },
+        {
+          "type": "text",
+          "text": "this looks like it could be the College of Melodic Rhythm.",
+          "duration": 3.14,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.46
+        },
+        {
+          "type": "text",
+          "text": "The institute for Bards!",
+          "duration": 1.64,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.69
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "But it’s been missing for so long.",
+          "duration": 2.19,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.54
+        },
+        {
+          "type": "text",
+          "text": "Could it be?",
+          "duration": 0.61,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.5
+        }
+      ]
+    }
+  ]
+}

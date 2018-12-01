@@ -1,0 +1,128 @@
+{
+  "sections": [
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "“Master of musical achievement and undeniable allurement,",
+          "duration": 4.14,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.37
+        },
+        {
+          "type": "text",
+          "text": "Lyrik Finnagun.”",
+          "duration": 1.44,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.34
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "Huh,",
+          "duration": 0.23,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.6
+        },
+        {
+          "type": "text",
+          "text": "I’ve heard this fellow’s name before.",
+          "duration": 1.59,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.49
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "In fact ɡrandad told me about a Lyrik Finnagun who was an excellent lute player.",
+          "duration": 4.14,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.78
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "Also mentioned he was a mischievous gentlemen back in his day.",
+          "duration": 3.82,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.61
+        },
+        {
+          "type": "text",
+          "text": "Traveled to different kingdoms and slept with over 1000 different women",
+          "duration": 3.9,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.63
+        },
+        {
+          "type": "text",
+          "text": "and men.",
+          "duration": 0.51,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.5
+        }
+      ]
+    }
+  ]
+}

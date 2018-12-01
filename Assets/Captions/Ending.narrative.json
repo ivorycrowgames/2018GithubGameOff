@@ -1,0 +1,74 @@
+{
+  "sections": [
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "And so with the help of a little luck,",
+          "duration": 3.25,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.16
+        },
+        {
+          "type": "text",
+          "text": "and perhaps a little magic,",
+          "duration": 1.91,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.43
+        },
+        {
+          "type": "text",
+          "text": "Bradley rediscovered the College of Melodic Rhythm and all of its mysteries.",
+          "duration": 5.57,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.76
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "Now that the Arcane Gateway is reinstated,",
+          "duration": 3.12,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.31
+        },
+        {
+          "type": "text",
+          "text": "the passionate flame held by all Bards can be reignited",
+          "duration": 4.68,
+          "animation": {
+            "type": "scrollRight"
+          }
+        }
+      ]
+    }
+  ]
+}

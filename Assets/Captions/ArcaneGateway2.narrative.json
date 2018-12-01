@@ -1,0 +1,78 @@
+{
+  "sections": [
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "Another Arcane Gateway!",
+          "duration": 1.49,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.46
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "I suppose I could give it another go.",
+          "duration": 2.2,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.91
+        },
+        {
+          "type": "text",
+          "text": "Besides, if I make it home, I can show others the way back",
+          "duration": 3.59,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.44
+        },
+        {
+          "type": "text",
+          "text": "and if I don’t then I'll be lost for all eternity.",
+          "duration": 3.59,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.17
+        },
+        {
+          "type": "text",
+          "text": "Win-win.",
+          "duration": 0.51,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.5
+        }
+      ]
+    }
+  ]
+}

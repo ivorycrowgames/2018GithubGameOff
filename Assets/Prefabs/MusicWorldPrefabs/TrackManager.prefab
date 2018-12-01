@@ -1,0 +1,551 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1517922679594896}
+  m_IsPrefabAsset: 1
+--- !u!1 &1251509479510178
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4272325424292824}
+  - component: {fileID: 114309515939603758}
+  - component: {fileID: 114470523309643444}
+  - component: {fileID: 114662854204009538}
+  - component: {fileID: 114123909311327960}
+  m_Layer: 0
+  m_Name: OnEnableTrigger
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1314044071406988
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4320588191938976}
+  - component: {fileID: 114001788657488880}
+  - component: {fileID: 114475549259164398}
+  - component: {fileID: 114924759156778814}
+  m_Layer: 0
+  m_Name: BumpBumpers
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1326139106181376
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4981880521229276}
+  - component: {fileID: 61324135057012788}
+  m_Layer: 0
+  m_Name: TrackBounds
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1517922679594896
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4643910576505056}
+  - component: {fileID: 114645909276602810}
+  - component: {fileID: 82024929251982296}
+  m_Layer: 0
+  m_Name: TrackManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1836250806735282
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4296842363856620}
+  m_Layer: 0
+  m_Name: Audio
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4272325424292824
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1251509479510178}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 11.4523735, y: 63.568287, z: -0.25756237}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4643910576505056}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4296842363856620
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1836250806735282}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4643910576505056}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4320588191938976
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1314044071406988}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -12.066027, y: 2.7166872, z: 0.5329784}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4643910576505056}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4643910576505056
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1517922679594896}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 17.573774, y: 4.413487, z: 0.23342183}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4272325424292824}
+  - {fileID: 4981880521229276}
+  - {fileID: 4296842363856620}
+  - {fileID: 4320588191938976}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4981880521229276
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1326139106181376}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4643910576505056}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &61324135057012788
+BoxCollider2D:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1326139106181376}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 378.21808, y: -11.405609}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 811.93506, y: 99.84961}
+  m_EdgeRadius: 0
+--- !u!82 &82024929251982296
+AudioSource:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1517922679594896}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 39efa704c13b2c44b9f5c93708c4d3ce, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 1883.4792
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!114 &114001788657488880
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1314044071406988}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fd3d0b4679d20c4793f03aef39c4902, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Condition: {fileID: 0}
+  Triggers:
+  - BumperKeyTrigger
+  Actions:
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (1)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (2)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (3)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (4)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (5)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (6)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (7)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (8)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (9)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (10)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (11)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (12)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (13)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (27)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (15)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (16)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (17)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (18)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (19)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (20)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (21)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (22)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (23)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (24)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (25)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (26)
+  - Action: {fileID: 114924759156778814}
+    DelayTime: 0
+    TargetEntity: Main Camera
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (28)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (29)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (30)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (31)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (32)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (33)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (34)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (35)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (36)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (37)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (38)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (39)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (40)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (41)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (42)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (43)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (44)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (45)
+  - Action: {fileID: 114475549259164398}
+    DelayTime: 0
+    TargetEntity: Bumper (46)
+--- !u!114 &114123909311327960
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1251509479510178}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32c79bf7f56b9c24e926a2c094d31a04, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114309515939603758
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1251509479510178}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b1f3b17dc113f54e84a29699905fd21, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114470523309643444
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1251509479510178}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fd3d0b4679d20c4793f03aef39c4902, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Condition: {fileID: 0}
+  Triggers:
+  - OnEnableTrigger
+  Actions:
+  - Action: {fileID: 114662854204009538}
+    DelayTime: 0
+    TargetEntity: Main Camera
+  - Action: {fileID: 114123909311327960}
+    DelayTime: 1.5
+    TargetEntity: TrackManager
+--- !u!114 &114475549259164398
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1314044071406988}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79702d2d0df7b8d4595e1db3bbf563bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data:
+    Direction: {x: 0, y: 1}
+    Speed: 8
+    Distance: 1
+    ReturnToStart: 1
+    HoldTime: 0
+--- !u!114 &114645909276602810
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1517922679594896}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6aef84fdfd68cfb49b2a3a19964d14da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  initialTrackSegment: {fileID: 0}
+  rabbit: {fileID: 0}
+  levelBounds: {fileID: 61324135057012788}
+  totalTrackDuration: 45
+  musicTrack: {fileID: 82024929251982296}
+  debug:
+    EnableDebugging: 0
+    mouseIndicator: {fileID: 0}
+--- !u!114 &114662854204009538
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1251509479510178}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b41da2faf632574ba3e1b4eb3ecd1ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data:
+    followEntity: {fileID: 0}
+    transitionTime: 2
+--- !u!114 &114924759156778814
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1314044071406988}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d652bb2a374a97943b4ab8f266e7eb8b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data:
+    magnitude: 0.4
+    duration: 0.4
+    shakeCount: 5

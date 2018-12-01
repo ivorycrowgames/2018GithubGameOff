@@ -1,0 +1,145 @@
+{
+  "sections": [
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "Hang on,",
+          "duration": 0.73,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.37
+        },
+        {
+          "type": "text",
+          "text": "I’ve seen one of these before.",
+          "duration": 1.11,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.54
+        },
+        {
+          "type": "text",
+          "text": " This is an Arcane Gateway!",
+          "duration": 1.97,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.41
+        },
+        {
+          "type": "text",
+          "text": "Grandad was buried near one of these in the woods outside of Rustpeak",
+          "duration": 3.69,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.68
+        },
+        {
+          "type": "text",
+          "text": "but it never worked.",
+          "duration": 1.2,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.74
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "With a little bit of Illuminite and some help from their instruments,",
+          "duration": 3.37,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.25
+        },
+        {
+          "type": "text",
+          "text": "Bards could use these to travel between the planes of existence",
+          "duration": 3.07,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.7
+        },
+        {
+          "type": "text",
+          "text": "but why is one here?",
+          "duration": 1.11,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.88
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "Maybe I can use this to get back home!",
+          "duration": 1.95,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 1.26
+        },
+        {
+          "type": "text",
+          "text": "Let's see...",
+          "duration": 0.68,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.5
+        }
+      ]
+    }
+  ]
+}

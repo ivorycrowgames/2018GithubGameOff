@@ -1,0 +1,147 @@
+{
+  "sections": [
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "“For outstanding excellence and for supporting us during a time of great peril,",
+          "duration": 5.57,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.55
+        },
+        {
+          "type": "text",
+          "text": "Bardle",
+          "duration": 0.74,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.45
+        },
+        {
+          "type": "text",
+          "text": "The Bard.”",
+          "duration": 0.89,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 1.2
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "Grandad taught me about this strange fellow.",
+          "duration": 2.24,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.63
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "Supposedly he loved to play the wind chimes at performances",
+          "duration": 3.22,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.26
+        },
+        {
+          "type": "text",
+          "text": "and was quite good at it.",
+          "duration": 1.08,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.59
+        },
+        {
+          "type": "text",
+          "text": "Gran dad also mentioned he was a bit mental and didn’t talk much.",
+          "duration": 3.72,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.53
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "Turns out whenever he did speak, all he could talk about were meeps.",
+          "duration": 3.67,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.69
+        }
+      ]
+    },
+    {
+      "endAnimation": {
+        "type": "fade"
+      },
+      "actions": [
+        {
+          "type": "text",
+          "text": "No one could figured out what the bloody hell he was on about but the man played a mean chime.",
+          "duration": 4.31,
+          "animation": {
+            "type": "scrollRight"
+          }
+        },
+        {
+          "type": "pause",
+          "duration": 0.6
+        }
+      ]
+    }
+  ]
+}
